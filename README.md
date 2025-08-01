@@ -1,8 +1,9 @@
-# 📡 Splunk App - SC4SNMP Dashboard Studio
+#Splunk App - SC4SNMP Dashboard Studio
 
 Esta aplicación contiene un **dashboard interactivo** desarrollado con **Dashboard Studio** para visualizar métricas recolectadas mediante **Splunk Connect for SNMP (SC4SNMP)**.
 
 🎯 **Objetivo**  
+
 Esta aplicación busca **dar valor de forma rápida y visual** a los datos recolectados por **SC4SNMP**, proporcionando una **visualización básica pero efectiva** de métricas SNMP. 
 El enfoque es **reducir el tiempo de revisión y análisis**, facilitando la operación y supervisión de la infraestructura de red desde Splunk.
 
